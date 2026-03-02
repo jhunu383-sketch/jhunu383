@@ -1,8 +1,6 @@
-<!-- CYBERPUNK HEADER -->
-img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=200&section=header&text=Dipika%20Kumari&fontSize=40&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=200&section=header&text=Dipika%20Kumari&fontSize=40&fontColor=ffffff"/>
 
-
-<h2 align="center">⚡ AI Developer in Progress | Cyber Frontend Architect ⚡</h2>
+<h2 align="center">AI-Focused Frontend Developer</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&size=25&center=true&vCenter=true&width=700&lines=Building+AI+Driven+Web+Experiences;Frontend+Developer;Machine+Learning+Explorer;Consistency+Over+Excuses;Future+AI+Engineer" />
