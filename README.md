@@ -58,14 +58,6 @@
 
 ---
 
-# 🐍 NEON CONTRIBUTION SNAKE
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jhunu383-sketch/jhunu383-sketch/output/github-contribution-grid-snake-dark.svg" />
-</p>
-![Snake animation](https://github.com/jhunu383-sketch/jhunu383/blob/main/dist/github-contribution-grid-snake.svg)
----
-
 # 🌐 CONNECT
 
 <p align="center">
