@@ -41,15 +41,6 @@
 
 ---
 
-# 📊 SYSTEM ANALYTICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhunu383-sketch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhunu383-sketch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180"/>
-</p>
-
----
-
 # 🔥 STREAK ENGINE
 
 <p align="center">
