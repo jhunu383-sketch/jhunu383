@@ -1,71 +1,70 @@
-# jhunu383
-Personal GitHub Profile README – Showcasing my skills, projects &amp; journey in tech
+<!-- HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Dipika%20Kumari&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<h1 align="center">Hi 👋, I'm Dipika Kumari</h1>
-<h3 align="center">Frontend Developer | AIML Enthusiast | Problem Solver</h3>
+<h2 align="center">🚀 Frontend Developer | AIML Enthusiast | Future AI Engineer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;AIML+Enthusiast;JavaScript+Developer;Future+AI+Engineer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=600&lines=Building+Interactive+Web+Experiences;Passionate+About+AI+%26+Machine+Learning;JavaScript+Lover;Consistency+Over+Everything" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 💻 I build interactive and responsive web applications  
-- 🧠 Currently learning Machine Learning & AI  
-- 🎯 Goal: Become a skilled AI Engineer  
-- 🔍 Passionate about problem solving and logical thinking  
-- ⚡ Strong interest in JavaScript & real-world projects  
+```diff
++ 💻 I build clean, interactive & responsive web applications
++ 🧠 Exploring Artificial Intelligence & Machine Learning
++ 🔥 Love solving logical problems
++ 🎯 Goal: Become a professional AI Engineer
+```
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Arsenal
 
-### 💻 Languages & Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
 
-### 📚 Currently Learning
-- Data Structures & Algorithms  
-- Machine Learning  
-- React  
+---
+
+# 🎮 Live Playable Projects
+
+## 🕹️ Tic Tac Toe Game
+🎯 Play Here → https://your-username.github.io/tic-tac-toe/
+
+## 🌦 Weather App
+🌍 Live Demo → https://your-username.github.io/weather-app/
+
+## 📊 Student Attendance System
+📂 Repository → https://github.com/your-username/student-attendance
 
 ---
 
-## 🚀 Featured Projects
+# 🔥 Streak & Contribution Energy
 
-### 🎮 Tic Tac Toe Game  
-🔗 **Live Demo:** https://jhunu383-sketch.github.io/TIC-TAC-TOE-GAME/ 
-📂 **Repository:** https://github.com/jhunu383-sketch/TIC-TAC-TOE GAME  
-
----
-
-### 🌦 Weather App  
-🔗 **Live Demo:** https://your-username.github.io/weather-app/  
-📂 **Repository:** https://github.com/your-username/weather-app  
-
----
-
-### 📊 Student Attendance System  
-📂 **Repository:** https://github.com/your-username/student-attendance  
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/dipika-kumari 
-- 📧 Email: your-jhunu383@gmail.com  
-
----
-
-## ✨ Personal Motto
-
-> Consistency beats talent. Keep building. Keep growing. 🚀  
-
----
+# 🐍 Contribution Snake Animation
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://instagram.com/your-instagram"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://github.com/your-username"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+</p>
+
+---
+
+# 💎 Developer Mindset
+
+> “Consistency beats talent. Code daily. Improve daily. Win daily.” 🚀
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=120&section=footer"/>
