@@ -37,8 +37,8 @@ Personal GitHub Profile README – Showcasing my skills, projects &amp; journey 
 ## 🚀 Featured Projects
 
 ### 🎮 Tic Tac Toe Game  
-🔗 **Live Demo:** https://your-username.github.io/tic-tac-toe/  
-📂 **Repository:** https://github.com/your-username/tic-tac-toe  
+🔗 **Live Demo:** https://jhunu383-sketch.github.io/TIC-TAC-TOE-GAME/ 
+📂 **Repository:** https://github.com/jhunu383-sketch/TIC-TAC-TOE GAME  
 
 ---
 
