@@ -1,5 +1,6 @@
 <!-- CYBERPUNK HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:ff00ff&height=230&section=header&text=JHUNU%20383&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=200&section=header&text=Dipika%20Kumari&fontSize=40&fontColor=ffffff"/>
+
 
 <h2 align="center">⚡ AI Developer in Progress | Cyber Frontend Architect ⚡</h2>
 
